@@ -1,0 +1,12 @@
+body{
+    background-color: #85FFBD;
+    background-image: linear-gradient(0deg, #85FFBD 0%, #FFFB7D 100%);
+    height: 100vh;
+
+}
+
+main{
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}

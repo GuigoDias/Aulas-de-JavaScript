@@ -1,0 +1,23 @@
+main, section{
+    margin: auto;
+    width: 300px;
+
+}
+
+button{
+    background-color: #a167c9;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 3px 2px #ccc;
+    color: #fff;
+    margin: 10px;
+    padding: 5px;
+    width: 100px;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    margin: 5px;
+    outline: none;
+}

@@ -1,0 +1,29 @@
+escreva um programa que leia o valor em metros e o exiba convertido em centimetros:
+
+VAriavel
+	var dolar;
+	var real;
+	var conversão;
+Algoritmo
+	entrada:
+		receber metro
+	processamento:
+		conversão: metro*100
+	saida:
+		mostrar conversão
+
+Variaveis
+	let n1;
+	let n2;
+	let soma;
+	const aprov;
+	const reprov;
+Algoritmo
+	entrada:
+		receber n1
+		receber n2
+	processamento:
+		soma: n1 + n2
+	saida:
+		if: soma > 10, exibir "aprov"
+		else: soma <= 10, exibir "reprov"
